@@ -12,7 +12,7 @@ This Python script merges multiple PDF files into a single PDF file using the `P
 
 - Python 3.x
 - PyPDF2
-
+    
 Install PyPDF2 using pip:
 
 ```bash
