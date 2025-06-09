@@ -5,7 +5,7 @@ This Python script merges multiple PDF files into a single PDF file using the `P
 ## 🚀 Features
 
 - Merge two or more PDF files into one.
-- Simple and easy to use.
+- Simple and easy to use. 
 - Lightweight script.
 
 ## 🧰 Requirements
