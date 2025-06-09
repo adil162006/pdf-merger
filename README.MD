@@ -8,7 +8,7 @@ This Python script merges multiple PDF files into a single PDF file using the `P
 - Simple and easy to use. 
 - Lightweight script.
 
-## 🧰 Requirements
+## 🧰 Requirements       
 
 - Python 3.x
 - PyPDF2
